@@ -16,37 +16,75 @@ body{
 #logo{
   width:40%;
   height:auto;
+  margin-bottom: 2rem;
+  margin-top: 2rem;
 }
 
 #mockup{
-  width:100%;
+  width:90%;
   height: auto;
-  margin:auto;
+  margin-left:20px;
 }
 
 #content-container{
   width:80%;
   margin: auto;
+  align-items: center;
 }
 
 
 h1{
   font-family: 'Poppins';
   font-weight: 400;
+  text-align: center;
 }
 
 p{
   font-family: 'Open Sans';
   font-weight: 400;
+  text-align: center;
+}
+
+button{
+  width: 12rem;
+  background-color: white;
+  border-radius: 20px;
+  border:none;
+  padding: 10px 20px;
+  margin: 1rem 0 3rem 3rem;
+  color:hsl(257, 40%, 49%);
+  font-size: 1rem;
+}
+
+button:hover{
+  background-color: rgb(205, 185, 243);
+  color: white;
+  cursor: pointer;
+}
+
+footer{
+  display:flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+}
+footer div{
+  margin: 5px 0;
+}
+
+#icon-container{
+  display: flex;
+  justify-content:center;
 }
 
 ion-icon{
     font-size: 24px;
     color: rgb(255, 255, 255);
-    border: 2px solid rgb(255, 255, 255);
+    border: 1px solid rgb(255, 255, 255);
     padding: 10px;
     border-radius: 50%;
     background-color:hsl(257, 40%, 49%);
+    margin:5px 4px;
 }
 .attribution {
     font-size: 11px;
@@ -56,3 +94,14 @@ ion-icon{
     color: white;
     text-decoration: none;
   }
+
+  /* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {...}
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {...}
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {...}
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {...}
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {...}
