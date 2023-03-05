@@ -57,7 +57,7 @@ I learned how to use and manipulate SVG's to create backgrounds and logo's.
 
 ## Author
 
-- Website - [Add your name here](https://github.com/DavidCaffrey)
+- Website - [David Caffrey GitHub](https://github.com/DavidCaffrey)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
 
 ## Acknowledgments
