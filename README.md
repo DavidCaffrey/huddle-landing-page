@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/DavidCaffrey/huddle-landing-page)
-- Live Site URL: [Add live site URL here](https://davidcaffrey.github.io/huddle-landing-page/)
+- Solution URL: [https://github.com/DavidCaffrey/huddle-landing-page](https://github.com/DavidCaffrey/huddle-landing-page)
+- Live Site URL: [https://davidcaffrey.github.io/huddle-landing-page/](https://davidcaffrey.github.io/huddle-landing-page/)
 
 ## My process
 The page was built from a mobile first perspective.
