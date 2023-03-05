@@ -6,7 +6,7 @@
 
 
 body{
-  background-image: url(/images/bg-mobile.svg);
+  background-image: url(images/bg-mobile.svg);
   background-repeat: no-repeat;
   background-color:hsl(257, 40%, 49%);
   color: white;
@@ -115,7 +115,7 @@ ion-icon:hover{
 /* Extra large devices (large laptops and desktops, 1200px and up) */
 @media only screen and (min-width: 1200px) {
   body{
-    background-image: url(/images/bg-desktop.svg);
+    background-image: url(images/bg-desktop.svg);
     background-size: 100%;
   }
   #container{
