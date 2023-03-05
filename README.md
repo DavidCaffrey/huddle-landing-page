@@ -49,31 +49,20 @@ The page was built from a mobile first perspective.
 - Mobile-first workflow
 
 
-
-
 ### What I learned
 
 I learned how to use and manipulate SVG's to create backgrounds and logo's.
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
-
-### Useful resources
-
-
 ## Author
 
 - Website - [Add your name here](https://github.com/DavidCaffrey)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
 
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+I would like to thank FrontEndMentor.io for providing these challenges to aspiring front end web developers like myself as I think it really 
+helps to have a design spec.
 
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+
