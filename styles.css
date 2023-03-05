@@ -27,7 +27,7 @@ body{
 }
 
 #content-container{
-  width:80%;
+  width:90%;
   margin: auto;
   align-items: center;
 }
@@ -35,14 +35,16 @@ body{
 
 h1{
   font-family: 'Poppins';
-  font-weight: 400;
+  font-weight: bold;
   text-align: center;
+  font-size: 1.5rem;
 }
 
 p{
   font-family: 'Open Sans';
   font-weight: 400;
   text-align: center;
+  font-size: 1rem;
 }
 
 button{
@@ -86,6 +88,11 @@ ion-icon{
     background-color:hsl(257, 40%, 49%);
     margin:5px 4px;
 }
+
+ion-icon:hover{
+  background-color:hsl(257, 69%, 71%);
+  cursor: pointer;
+}
 .attribution {
     font-size: 11px;
     text-align: center;
@@ -104,4 +111,55 @@ ion-icon{
 /* Large devices (laptops/desktops, 992px and up) */
 @media only screen and (min-width: 992px) {...}
 /* Extra large devices (large laptops and desktops, 1200px and up) */
-@media only screen and (min-width: 1200px) {...}
+@media only screen and (min-width: 1200px) {
+  body{
+    background-image: url(/images/bg-desktop.svg);
+    background-size: 100%;
+  }
+  #container{
+   
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 5fr 1fr;
+  }
+  #logo{
+    width: 20%;
+    height:auto;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+    display:block;
+    grid-column-start: 1;
+    grid-column-end: 2;
+  }
+  #mockup{
+    width:80%;
+    height: auto;
+    margin-left:20px;
+    display: inline-block;
+  }
+  main{
+    padding: 100px 100px 100px 0;
+  }
+
+  footer{
+    height: 5rem;
+    grid-column: 1 / span 2;
+    grid-row: 2;
+    align-items: end;
+    padding-right: 6rem;
+  }
+  h1{
+    padding: 0 10rem 0 0;
+    font-size: 2rem;
+    text-align: left;
+  }
+
+  p{
+    text-align: left;
+    padding: 0 5rem 0 0;
+  }
+  
+  button{
+    margin-left: 0;
+  }
+}
