@@ -16,7 +16,6 @@ This is a solution to the [Huddle landing page with single introductory section 
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 This design challenge involved using SVG's as backgrounds, icons and links.
@@ -34,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/DavidCaffrey/huddle-landing-page](https://github.com/DavidCaffrey/huddle-landing-page)
-- Live Site URL: [https://davidcaffrey.github.io/huddle-landing-page/](https://davidcaffrey.github.io/huddle-landing-page/)
+- Solution URL: [Github](https://github.com/DavidCaffrey/huddle-landing-page)
+- Live Site URL: [Netlify](https://huddle-page-caffrey.netlify.app)
 
 ## My process
 The page was built from a mobile first perspective.
@@ -56,9 +55,9 @@ I learned how to use and manipulate SVG's to create backgrounds and logo's.
 ### Continued development
 
 ## Author
-
-- Website - [David Caffrey GitHub](https://github.com/DavidCaffrey)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Code - [GitHub](https://github.com/DavidCaffrey)
+- Website - [David Caffrey GitHub](https://caffreymedia.com)
+- Frontend Mentor - [David Caffrey](https://www.frontendmentor.io/profile/DavidCaffrey)
 
 ## Acknowledgments
 
