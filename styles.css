@@ -30,7 +30,7 @@ body{
 
 #content-container{
   width:90%;
-  margin: auto;
+  margin: auto auto;
   align-items: center;
 }
 
@@ -58,6 +58,7 @@ button{
   margin: 1rem 0 3rem 3rem;
   color:hsl(257, 40%, 49%);
   font-size: 1rem;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
 }
 
 button:hover{
